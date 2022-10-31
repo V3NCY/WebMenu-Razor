@@ -24,12 +24,14 @@ namespace WebMenu_Razor.Areas.Identity
                     .AddEntityFrameworkStores<WebMenu_RazorContext>();
 
             });
-            builder.ConfigureServices((context, services) => {
+            builder.ConfigureServices((context, services) =>
+          
                 services.AddDbContext<AuthDbContext>(options =>
                     options.UseSqlServer(
                         context.Configuration.GetConnectionString("AuthDbContextConnection")));
-                ...
-}
-        }
-    }
+
+            }
+            }
+
+    
 }

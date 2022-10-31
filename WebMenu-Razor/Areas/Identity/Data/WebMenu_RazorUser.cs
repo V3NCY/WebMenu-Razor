@@ -17,4 +17,9 @@ namespace WebMenu_Razor.Areas.Identity.Data
         [Column(TypeName = "nvarchar(100)")]
         public string LastName { get; set; }
     }
+
+    internal class ColumnAttribute : Attribute
+    {
+        public string TypeName;
+    }
 }
