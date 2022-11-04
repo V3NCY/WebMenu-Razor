@@ -226,7 +226,7 @@ a {
     text-decoration: none;
 }
 
-&:hover {
+:hover {
     color: black;
 }
 
