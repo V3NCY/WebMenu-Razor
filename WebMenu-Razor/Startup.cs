@@ -23,6 +23,7 @@ namespace WebMenu_Razor
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddRazorPages();//
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -33,7 +34,7 @@ namespace WebMenu_Razor
                 app.UseDeveloperExceptionPage();
                 app.UseRouting();
                 app.UseAuthorization();
-
+                app.UseAuthentication(); //
             }
             else
             {
@@ -52,8 +53,7 @@ namespace WebMenu_Razor
             app.UseEndpoints(endpoints =>
             {
                
-                endpoints.MapRazorPages();
-                endpoints.MapRazorPages();
+                endpoints.MapRazorPages();//
             });
         }
     }
