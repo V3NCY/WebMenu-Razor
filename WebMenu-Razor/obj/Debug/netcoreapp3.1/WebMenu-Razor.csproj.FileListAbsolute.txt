@@ -112,7 +112,6 @@ C:\Users\orak\Desktop\WebMenu-Razor\WebMenu-Razor\bin\Debug\netcoreapp3.1\ru\Mic
 C:\Users\orak\Desktop\WebMenu-Razor\WebMenu-Razor\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\orak\Desktop\WebMenu-Razor\WebMenu-Razor\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\orak\Desktop\WebMenu-Razor\WebMenu-Razor\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\orak\Desktop\WebMenu-Razor\WebMenu-Razor\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_LayoutLogin.cshtml.g.cs
 C:\Users\orak\Desktop\WebMenu-Razor\WebMenu-Razor\bin\Debug\netcoreapp3.1\WebMenu-Razor.StaticWebAssets.xml
 C:\Users\orak\Desktop\WebMenu-Razor\WebMenu-Razor\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
 C:\Users\orak\Desktop\WebMenu-Razor\WebMenu-Razor\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
@@ -188,13 +187,3 @@ C:\Users\orak\Desktop\WebMenu-Razor\WebMenu-Razor\bin\Debug\netcoreapp3.1\runtim
 C:\Users\orak\Desktop\WebMenu-Razor\WebMenu-Razor\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\orak\Desktop\WebMenu-Razor\WebMenu-Razor\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\orak\Desktop\WebMenu-Razor\WebMenu-Razor\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
-C:\Users\orak\Desktop\WebMenu-Razor\WebMenu-Razor\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
-C:\Users\orak\Desktop\WebMenu-Razor\WebMenu-Razor\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
-C:\Users\orak\Desktop\WebMenu-Razor\WebMenu-Razor\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
-C:\Users\orak\Desktop\WebMenu-Razor\WebMenu-Razor\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
-C:\Users\orak\Desktop\WebMenu-Razor\WebMenu-Razor\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
-C:\Users\orak\Desktop\WebMenu-Razor\WebMenu-Razor\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
-C:\Users\orak\Desktop\WebMenu-Razor\WebMenu-Razor\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\orak\Desktop\WebMenu-Razor\WebMenu-Razor\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
-C:\Users\orak\Desktop\WebMenu-Razor\WebMenu-Razor\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
-C:\Users\orak\Desktop\WebMenu-Razor\WebMenu-Razor\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
